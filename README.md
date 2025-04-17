@@ -19,7 +19,7 @@ A modern, immersive Rock Paper Scissors game with a vibrant gaming UI and multip
 
 ## 🚀 How to Run
 1. **Download or clone this repo**
-2. Open `first.html` directly in your browser (or use a local server for best results)
+2. Open `index.html` directly in your browser 
 3. Play and switch themes using the button!
 
 
