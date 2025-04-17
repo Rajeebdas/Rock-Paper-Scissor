@@ -1,4 +1,4 @@
-# 🎮 Rock Paper Scissors Game Theme
+# 🎮 Rock Paper Scissors Game
 
 A modern, immersive Rock Paper Scissors game with a vibrant gaming UI and multiple themes (Light, Dark, Gradient). Play against the computer, switch themes, and enjoy a dynamic, animated interface!
 
@@ -26,4 +26,4 @@ A modern, immersive Rock Paper Scissors game with a vibrant gaming UI and multip
 A theme switcher button is included on the game screen. Click it to cycle through all available themes and enjoy different looks instantly!
 
 ---
-**Made with ❤️ for gamers and coders!**
+**Made with Rajeeb**
