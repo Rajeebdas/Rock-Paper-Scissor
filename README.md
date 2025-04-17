@@ -26,4 +26,4 @@ A modern, immersive Rock Paper Scissors game with a vibrant gaming UI and multip
 A theme switcher button is included on the game screen. Click it to cycle through all available themes and enjoy different looks instantly!
 
 ---
-**Made with Rajeeb**
+**Made by Rajeeb**
