@@ -2,6 +2,9 @@
 
 A modern, immersive Rock Paper Scissors game with a vibrant gaming UI and multiple themes (Light, Dark, Gradient). Play against the computer, switch themes, and enjoy a dynamic, animated interface!
 
+## 🌟 Preview
+ [![Play Rock Paper Scissors](https://img.shields.io/badge/Play_Now-Click_Here-6e40c9?style=for-the-badge&logo=game-controller)](https://rock-paper-scissor-gam.netlify.app)
+
 ## 🌈 Themes
 - **Light**: Clean, minimal, and bright for daytime play.
 - **Dark**: Sleek and easy on the eyes for night sessions.
@@ -19,8 +22,6 @@ A modern, immersive Rock Paper Scissors game with a vibrant gaming UI and multip
 2. Open `first.html` directly in your browser (or use a local server for best results)
 3. Play and switch themes using the button!
 
-## 🌟 Preview
- [![Play Rock Paper Scissors](https://img.shields.io/badge/Play_Now-Click_Here-6e40c9?style=for-the-badge&logo=game-controller)](https://rock-paper-scissor-gam.netlify.app)
 
 ## 🔘 Theme Switcher Button
 A theme switcher button is included on the game screen. Click it to cycle through all available themes and enjoy different looks instantly!
