@@ -20,7 +20,7 @@ A modern, immersive Rock Paper Scissors game with a vibrant gaming UI and multip
 3. Play and switch themes using the button!
 
 ## 🌟 Preview
-![Game Screenshot](./preview.png)
+![Game Screenshot](rock-paper-scissor-gam.netlify.app)
 
 ## 🔘 Theme Switcher Button
 A theme switcher button is included on the game screen. Click it to cycle through all available themes and enjoy different looks instantly!
